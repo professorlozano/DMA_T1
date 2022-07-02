@@ -16,7 +16,7 @@
         app:srcCompat="@drawable/senai_logo" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageViewProduto"
         android:layout_width="123dp"
         android:layout_height="127dp"
         app:layout_constraintBottom_toBottomOf="parent"
